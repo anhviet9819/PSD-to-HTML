@@ -44,7 +44,7 @@
     position: absolute;
     width: 120px;
     height: 120px;
-    background-color: wheat;
+    /* background-color: wheat; */
     border-radius: 50%;
     text-align: center;
     left: 121px;
@@ -103,7 +103,7 @@
 }
 
 .column_row2_cnt > p:last-child{
-    color: blanchedalmond;
+    color: gainsboro;
 }
 
 .column_row2_list{
